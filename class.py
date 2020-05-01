@@ -8,6 +8,8 @@ class Employee:
         Employee.name = "Omkar"
 
 employee = Employee()
+#Previous Name
 print(employee.name)
 employee.changeNames()
+#Changed Name
 print(employee.name)
