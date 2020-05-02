@@ -1,5 +1,4 @@
 def reverse(string):
-  L = []
   str = ""
   for i in string:
     str = i + str
