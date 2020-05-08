@@ -1,3 +1,8 @@
+"""
+Imlement the stack program where Last in first out approch is used.
+
+"""
+
 class Stack:
     name = 0
     numberList = []
