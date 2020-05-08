@@ -1,3 +1,9 @@
+"""
+Implement the Car Rental program using data abstraction and encapsulation
+Resource : 4 Pillar
+difficulty level: Easy
+"""
+
 print("=========================")
 print("Available Car Types")
 print("1. Hatchback")
