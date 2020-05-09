@@ -23,7 +23,6 @@ class Stack:
             print(numbers.name, end=' ')
         print()
 
-
 numberOne = Stack("One")
 numberTwo = Stack("Two")
 numberThree = Stack("Three")
@@ -32,3 +31,4 @@ numberFive = Stack("Five")
 numberFive.displayStack()
 numberSix = Stack("Six")
 numberSix.displayStack()
+
