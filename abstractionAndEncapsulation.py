@@ -1,3 +1,8 @@
+"""
+    source: python 4 Pillar
+    Problem Statement: Car Rental example using abstraction and encapsulation
+    python dictoinary has been used
+"""
 class Car:
     def __init__(self):
         # A dictionary to map the type of car and price per day
